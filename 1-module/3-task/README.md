@@ -10,7 +10,7 @@ var inputData = '1, -5.8 или 10, хотя 34 + -5.3 и 73';
  * @returns {{min:Number, max:Number}}  объект
  */
 function getMinMax(string) {
-	// ...
+    let massiv = string.split(" ")
 }
 
 
